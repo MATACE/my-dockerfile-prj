@@ -1,0 +1,5 @@
+(import (rnrs))
+(display "Hello")
+(newline)
+(display (* 4 5))
+(newline)
